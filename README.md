@@ -2,7 +2,7 @@
 Some Blender3D GTA Modding Tools Scripts.
 Current Scripts In This GitHub:
 
-## -2DFX Section-:
+## -2DFX Section- (*gta_tools_2dfx.py*):
 
 ### Suport (Import/Export):
 - Particles
@@ -13,8 +13,10 @@ Current Scripts In This GitHub:
 ### Major Problems:
 - Game -> Blender and Blender -> Game Rotation Conversion Bugs.
 
-### Usage:
-The help of how to use the 2DFX Section Import/Export will be written in a future Wiki in this GitHub.
+### Installation And Usage:
+The help of how to install use the 2DFX Section Import/Export is in creation int the Wiki of this GitHub.
+
+
 
 ## References:
 Some references for writing my scripts for Blender3D.
