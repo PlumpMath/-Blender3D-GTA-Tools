@@ -2,21 +2,21 @@
 Some Blender3D GTA Modding Tools Scripts.
 Current Scripts In This GitHub:
 
-## -2DFX Section- (*gta_tools_2dfx.py*):
+## 1 - 2DFX Section (*gta_tools_2dfx.py*):
 
-### Suport (Import/Export):
+### 1.1 - Suport (Import/Export):
 - Particles
 - Lights
 - Ped Attractor
 - Street Sign
 
-### Major Problems:
+### 1.2 - Major Problems:
 - Game -> Blender and Blender -> Game Rotation Conversion Bugs.
 
-### Installation And Usage:
-The help of how to install use the 2DFX Section Import/Export is in creation int the Wiki of this GitHub.
+### 1.3 - Installation And Usage:
+The help content are located in this wiki page:
 
-
+* [2DFX Tools Help](https://github.com/EduardoJM/-Blender3D-GTA-Tools/wiki/2DFX-Tools)
 
 ## References:
 Some references for writing my scripts for Blender3D.
