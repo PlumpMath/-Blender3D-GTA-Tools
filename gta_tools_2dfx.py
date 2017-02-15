@@ -5,7 +5,7 @@
 bl_info = {
     "name": "RenderWare 2D Effect Section Importer/Exporter for GTA",
     "author": "Eduardo J.",
-    "version": (0, 0, 2),
+    "version": (0, 0, 3),
     "blender": (2, 7, 8),
     "location": "Tools > GTA Tools > 2D Effects",
     "description": "Helper for Import/Export RenderWare 2D Effects Section for GTA",
@@ -327,6 +327,8 @@ class Import2dEffectSection:
             
             obj.use_2dfx_particle = True
             obj.particle_name = self.name
+            
+            bpy.context.scene.objects.link(obj)
             
     def __init__(self, filepath):
         self.particles = []
